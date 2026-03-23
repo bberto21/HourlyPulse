@@ -1,0 +1,40 @@
+{
+  "": {
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/master.swiftdeps"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/HourPulse/Models/AlarmSettings.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmSettings.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmSettings.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmSettings.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmSettings.dia"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/HourPulse/Models/NotificationAccessState.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/NotificationAccessState.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/NotificationAccessState.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/NotificationAccessState~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/NotificationAccessState.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/NotificationAccessState.dia"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/HourPulse/Services/SettingsStore.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/SettingsStore.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/SettingsStore.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/SettingsStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/SettingsStore.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/SettingsStore.dia"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/HourPulse/Utils/AlarmScheduleLogic.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmScheduleLogic.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmScheduleLogic.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmScheduleLogic~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmScheduleLogic.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmScheduleLogic.dia"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/HourPulse/Utils/AlarmStatusLogic.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmStatusLogic.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmStatusLogic.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmStatusLogic~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmStatusLogic.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCore.build/AlarmStatusLogic.dia"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCorePackageTests.build/master.swiftdeps"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCorePackageTests.derived/runner.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCorePackageTests.build/runner.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCorePackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCorePackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCorePackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCorePackageTests.build/runner.dia"
+  }
+}

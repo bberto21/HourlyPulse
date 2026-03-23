@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/master.swiftdeps"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/Tests/HourPulseCoreTests/AlarmScheduleLogicTests.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/AlarmScheduleLogicTests.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/AlarmScheduleLogicTests.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/AlarmScheduleLogicTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/AlarmScheduleLogicTests.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/AlarmScheduleLogicTests.dia"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/Tests/HourPulseCoreTests/AlarmStatusLogicTests.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/AlarmStatusLogicTests.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/AlarmStatusLogicTests.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/AlarmStatusLogicTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/AlarmStatusLogicTests.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/AlarmStatusLogicTests.dia"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/Tests/HourPulseCoreTests/SettingsStoreTests.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/SettingsStoreTests.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/SettingsStoreTests.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/SettingsStoreTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/SettingsStoreTests.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/HourPulseCoreTests.build/SettingsStoreTests.dia"
+  }
+}

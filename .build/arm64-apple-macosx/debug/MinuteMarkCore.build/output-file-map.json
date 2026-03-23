@@ -1,0 +1,40 @@
+{
+  "": {
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/master.swiftdeps"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/MinuteMark/Models/AlarmSettings.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmSettings.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmSettings.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmSettings.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmSettings.dia"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/MinuteMark/Models/NotificationAccessState.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/NotificationAccessState.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/NotificationAccessState.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/NotificationAccessState~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/NotificationAccessState.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/NotificationAccessState.dia"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/MinuteMark/Services/SettingsStore.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/SettingsStore.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/SettingsStore.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/SettingsStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/SettingsStore.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/SettingsStore.dia"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/MinuteMark/Utils/AlarmScheduleLogic.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmScheduleLogic.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmScheduleLogic.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmScheduleLogic~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmScheduleLogic.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmScheduleLogic.dia"
+  },
+  "/Users/bronxdocumentarycenter/Desktop/HourPulse/MinuteMark/Utils/AlarmStatusLogic.swift": {
+    "dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmStatusLogic.d",
+    "object": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmStatusLogic.swift.o",
+    "swiftmodule": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmStatusLogic~partial.swiftmodule",
+    "swift-dependencies": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmStatusLogic.swiftdeps",
+    "diagnostics": "/Users/bronxdocumentarycenter/Desktop/HourPulse/.build/arm64-apple-macosx/debug/MinuteMarkCore.build/AlarmStatusLogic.dia"
+  }
+}
